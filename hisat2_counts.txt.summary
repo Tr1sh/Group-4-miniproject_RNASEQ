@@ -1,0 +1,15 @@
+Status	hisat2/sample37_hisat2_sorted.bam	hisat2/sample38_hisat2_sorted.bam	hisat2/sample39_hisat2_sorted.bam	hisat2/sample40_hisat2_sorted.bam	hisat2/sample41_hisat2_sorted.bam	hisat2/sample42_hisat2_sorted.bam
+Assigned	18751061	19700096	32558756	28958663	21605011	28099557
+Unassigned_Unmapped	51869	43642	67053	43507	43399	47009
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1696914	1441056	2098336	1979889	1628787	1796111
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	3490261	3295001	5199716	5027150	3091886	3911189
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	1409411	1767809	2708021	2136176	1813639	2159721
