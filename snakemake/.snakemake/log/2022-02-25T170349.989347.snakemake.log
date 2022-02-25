@@ -1,0 +1,2 @@
+SyntaxError in line 22 of /home/ace/julius/sem2/recess/rna_seq/snakemake/Snakefile:
+Unexpected keyword expand in rule definition (Snakefile, line 22)
